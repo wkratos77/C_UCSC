@@ -6,7 +6,8 @@ int main() {
     double sum = 0.0;
     int count = 0;
     file = fopen("elephant_seal_data.txt", "r"); 
-    if (file == NULL) {
+    if (file == NULL) 
+    {
         printf("Error \n");
         return 1;
     }
@@ -15,7 +16,8 @@ int main() {
         count++;
     }
     fclose(file);
-    if (count == 0){
+    if (count == 0)
+    {
         printf("empty file\n");
         return 1;
     }

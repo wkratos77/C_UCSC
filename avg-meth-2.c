@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-int main(void) {
+int main(void) 
+{
     int weights[] = {
         5713, 6936, 8764, 6702, 8535, 8654, 8710, 8332, 4948, 7627,
         5472, 5311, 7331, 8719, 6135, 6672, 5786, 7113, 5292, 6923,
@@ -107,7 +108,8 @@ int main(void) {
     int n = sizeof(weights) / sizeof(weights[0]);
     long long sum = 0;
 
-    for (int i = 0; i < n; i++) {
+    for (int i = 0; i < n; i++) 
+    {
         sum += weights[i];
     }
 
