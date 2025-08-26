@@ -11,10 +11,10 @@
 This repository showcases my assignments and projects from two Coursera courses offered by the **University of California, Santa Cruz** as part of the *Coding for Everyone: C and C++ Specialization*:
 
 - **C for Everyone: Programming Fundamentals**  
-  Covered foundational topics such as introduction to C, lexical elements, data types, control flow, functions, recursion, arrays, and pointers. :contentReference[oaicite:0]{index=0}
+  Covered foundational topics such as introduction to C, lexical elements, data types, control flow, functions, recursion, arrays, and pointers.
 
 - **C for Everyone: Structured Programming**  
-  Built upon the fundamentals with advanced concepts including enums, structs, linked lists, binary trees, file I/O, command-line arguments, and an introduction to C++ constructs. :contentReference[oaicite:1]{index=1}
+  Built upon the fundamentals with advanced concepts including enums, structs, linked lists, binary trees, file I/O, command-line arguments, and an introduction to C++ constructs.
 
 ---
 
@@ -43,25 +43,28 @@ This repository showcases my assignments and projects from two Coursera courses 
 
 1. Clone this repository to your local machine.
 2. Navigate to a project folder (e.g. `bst_inorder_from_file.c`).
-3. Compile & run using:
-   ```bash```
+3. Compile & run using:   
+
+   ```bash
    gcc filename.c -o prog
    ./prog
-4. Explore the code, read comments, and review output formatting.
+5. Explore the code, read comments, and review output formatting.
 
 ---
 
 ## Learning Outcomes
 
-Programming Fundamentals: Developed fluency in C syntax, data types, control flow, and basic algorithms.
+Programming Fundamentals: Developed fluency in C syntax, data types, control flow, and basic algorithms.    
 
-Structured Programming: Gained understanding of modular design with advanced data structures (structs, linked lists, trees), recursion, and file operations.
+Structured Programming: Gained understanding of modular design with advanced data structures (structs, linked lists, trees), recursion, and file operations.      
 
-Problem Solving: Implemented both conceptual and practical tasks to reinforce debugging, clean code, and algorithmic thinking.
+Problem Solving: Implemented both conceptual and practical tasks to reinforce debugging, clean code, and algorithmic thinking.     
 
-Author: [Walid Krati]
-Course Instructor: Ira Pohl, UC Santa Cruz via Coursera
-Certifications: Completed courses in C programming fundamentals and structured programming
+---
+
+Author: Walid Krati    
+Course Instructor: Ira Pohl, UC Santa Cruz via Coursera     
+Certifications: Completed courses in C programming fundamentals and structured programming     
 
 ---
 
